@@ -1,0 +1,9 @@
+title: Mondefetch
+email: mondefetch@gmail.com
+description: >- 
+  The best affiliate deals in one place.
+baseurl: ""
+url: "https://mondefetch.com"
+theme: minima
+plugins:
+  - jekyll-feed
